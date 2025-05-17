@@ -24,6 +24,7 @@ Tech Stack
 > A React-based shopping cart application using MUI’s Drawer for a sleek UI.
 
 > [Todo-Project](https://onur98-dev.github.io/todo-project/)
+> A simple and functional Todo List application built with **React**, Redux Toolkit, and TypeScript.
 
 > [Currency App](https://onur98-dev.github.io/currency/)
   A currency app using api requests.
