@@ -23,6 +23,8 @@ Tech Stack
 > [E-Commerce App](https://onur98-dev.github.io/e-commercial/)
 > A React-based shopping cart application using MUI’s Drawer for a sleek UI.
 
+> [Todo-Project](https://onur98-dev.github.io/todo-project/)
+
 > [Currency App](https://onur98-dev.github.io/currency/)
   A currency app using api requests.
 > 
