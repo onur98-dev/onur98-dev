@@ -26,7 +26,7 @@ Currently Learning
 > A responsive and modern portfolio site built with React and custom CSS.
 
 > [E-Commerce App](https://onur98-dev.github.io/e-commercial/)
-> A React-based shopping cart application using API,MUI’s Drawer for a sleek UI.
+> A React-based shopping cart application using API,MUI’s Drawer for a sleek UI. (Work in progress – Search filter feature coming soon.)
 
 > [Todo-Project](https://onur98-dev.github.io/todo-project/)
 > A simple and functional Todo List application built with **React**, Redux Toolkit, and TypeScript.
