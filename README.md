@@ -15,8 +15,13 @@ Tech Stack
 - **Languages:** JavaScript, HTML, CSS
 - **Frameworks & Libraries:** React, Next.js (learning), Material UI, Tailwind CSS
 - **Tools:** Git, GitHub, VS Code, Figma
-- **Other:** Responsive Design, API Integration, Firebase (basics)
-- 
+- **Other:** Responsive Design, API Integration
+  
+Currently Learning
+
+- Material UI
+- Firebase
+
 🔹 [Personal Portfolio](https://onur98-dev.github.io/portfolio/)
 > A responsive and modern portfolio site built with React and custom CSS.
 
