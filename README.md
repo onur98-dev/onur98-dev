@@ -37,5 +37,7 @@ Currently Learning
 *(More projects coming soon!)*
 
 [LinkedIn Profile](https://www.linkedin.com/in/onur-sar%C4%B1aslan-a747a1364/)
+
 E-mail:osariaslannn@gmail.com
+
 Portfolio: [onur98-dev.github.io/portfolio](https://onur98-dev.github.io/portfolio/)
